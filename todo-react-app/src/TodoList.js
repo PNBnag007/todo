@@ -67,7 +67,7 @@ class TodoList extends Component {
  render() {
  return (
 <div className="todo-container">
-<h2 align="center"> HELLO WORLD </h2>
+<h2 align="center"> Plan your Things </h2>
 <h2> ToDo App </h2>
 <div className="todo">
 <input type="text"
