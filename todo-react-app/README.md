@@ -1,5 +1,5 @@
-#This is a TODO application in MERN STACK.
-#Also with this application i followed the RESTful architecture to call the corresponding HTTP Methods like GET, PUT, POST & DELETE.
+# This is a TODO application in MERN STACK.
+# Also with this application i followed the RESTful architecture to call the corresponding HTTP Methods like GET, PUT, POST & DELETE.
 
 
 
