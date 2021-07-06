@@ -1,7 +1,13 @@
 Author : Pulla Nagendra Babu.
 
-# This is a TODO application in MERN stack.
-# Also with this application i followed the RESTful architecture to call the corresponding HTTP Methods like GET, PUT, POST & DELETE.
+## This is a TODO application in MERN stack.
+## In this application one can create todos, update existing todos and can delete.
+## Also with this application i followed the RESTful architecture to call the corresponding HTTP Methods like GET, PUT, POST & DELETE.
+
+# website DEMO : 
+
+![Todo_DEMO_gif](https://user-images.githubusercontent.com/55823372/124591348-d1f78200-de79-11eb-9bd3-e03aac843407.gif)
+
 
 # Getting Started with Create React App
 
