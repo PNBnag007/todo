@@ -1,3 +1,8 @@
+# This is a TODO application in MERN STACK.
+# Also with this application i followed the RESTful architecture to call the corresponding HTTP Methods like GET, PUT, POST & DELETE.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
